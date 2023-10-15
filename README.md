@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Stepan</h1>
 <h3 align="center">ASP.NET Core Developer</h3>
 
-- 🔭 I’m currently working on **bot for telegram** and some of my games
+<p1>- 🔭 I’m currently working on **bot for telegram** and some of my games</p1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
