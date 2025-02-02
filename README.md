@@ -6,7 +6,7 @@ I'm a **Junior Full-Stack Programmer**.
 
 ## 🌟 Interests  
 - **Game Development:** Unity3D  
-- **Telegram Bots:** [python-telegram-bot](https://github.com/Sflegioner/TelegramBot-System-Solo-Up)  
+- **Telegram Bots:** (https://github.com/Sflegioner/TelegramBot-System-Solo-Up)  
 
 ## 📂 Projects  
 Here you can find my projects:  
